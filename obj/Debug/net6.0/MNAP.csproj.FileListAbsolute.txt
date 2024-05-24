@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\minecraftserver\MNAP\bin\Debug\net6.0\MNAP.exe
+C:\Users\Dell\Desktop\minecraftserver\MNAP\bin\Debug\net6.0\MNAP.deps.json
+C:\Users\Dell\Desktop\minecraftserver\MNAP\bin\Debug\net6.0\MNAP.runtimeconfig.json
+C:\Users\Dell\Desktop\minecraftserver\MNAP\bin\Debug\net6.0\MNAP.dll
+C:\Users\Dell\Desktop\minecraftserver\MNAP\bin\Debug\net6.0\MNAP.pdb
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.AssemblyInfo.cs
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.dll
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\refint\MNAP.dll
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.pdb
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\MNAP.genruntimeconfig.cache
+C:\Users\Dell\Desktop\minecraftserver\MNAP\obj\Debug\net6.0\ref\MNAP.dll
